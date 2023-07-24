@@ -7,7 +7,7 @@
 - Python 3.10 or higher
 - macOS or Linux, 가상환경에서 설치 권고
   
-## Steps to Run the Chat UI
+## 과정
 
 1. Fork repository
 
