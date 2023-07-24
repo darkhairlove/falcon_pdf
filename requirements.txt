@@ -1,0 +1,9 @@
+langchain
+huggingface_hub > /dev/null
+chainlit
+unstructured
+sentence_transformers
+arxiv
+pymupdf
+jaxlib==0.4.13
+jax
