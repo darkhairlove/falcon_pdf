@@ -8,7 +8,7 @@ from langchain import HuggingFaceHub, PromptTemplate, LLMChain
 import langchain
 langchain.verbose = False
 
-huggingfacehub_api_token = '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'
+huggingfacehub_api_token = '***********************'
 
 repo_id = "tiiuae/falcon-7b-instruct"
 llm = HuggingFaceHub(huggingfacehub_api_token=huggingfacehub_api_token,
